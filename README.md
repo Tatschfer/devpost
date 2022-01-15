@@ -1,24 +1,10 @@
-# devpost
+# Projeto VUE JS Sujeito Post
 
-## Project setup
-```
-npm install
-```
+Desenvolvimento do projeto orientado do curso "Vue JS do zero ao avançado na prática" do Sujeito Programador na Udemy.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Conceitos aprendidos:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Criação de projeto do zero com Vue JS
+- Integração com aplicação para autenticação e banco de dados
+- Criação de rotas
+- Criação de modais
